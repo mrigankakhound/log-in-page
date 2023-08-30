@@ -1,2 +1,2 @@
 # log-in-page
- A ogin page using HTML and CSS
+ A login page using HTML and CSS
